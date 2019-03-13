@@ -28,7 +28,7 @@ results/w-----.png: final timestep of dataset with corresponding noise w =, v=
 
 Red is trajectory, blue is landmarks in scene.
 
-![alt text](results/last27.png?raw=True 'Visual Inertial SLAM of dataset 27'
+![alt text](results/last27.png?raw=True 'Visual Inertial SLAM of dataset 27')
 
-![alt text](results/last42.png?raw=True 'Visual Inertial SLAM of dataset 42' 
+![alt text](results/last42.png?raw=True 'Visual Inertial SLAM of dataset 42') 
 
